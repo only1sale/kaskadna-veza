@@ -2,7 +2,6 @@
 layout: post
 title:  "Novi Post"
 date:   2021-01-13 20:34:57 +0100
-categories: jekyll update
 ---
 
 # NOVA STRANA
